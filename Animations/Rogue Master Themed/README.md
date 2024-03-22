@@ -1,12 +1,11 @@
 ![Header](./rmheader.png)
-<h1 align="center">Flipper Zero Animations</h1>
-<h3 align="center">Rogue Master themed animations</h3>
+<h1 align="center">Rogue Master themed animations</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
 
 <p align="left"> <a href="https://twitter.com/a_t_o_m_nft" target="blank"><img src="https://img.shields.io/twitter/follow/a_t_o_m_nft?logo=twitter&style=for-the-badge" alt="a_t_o_m_nft" /></a> </p>
 
-- 🔭 I’m currently working on **Some shaweeeeet animations for the Flipper0. Categories for all animations will be created and populated soon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
