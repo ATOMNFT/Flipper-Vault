@@ -1,3 +1,4 @@
+![Header](./rmheader.png)
 <h1 align="center">Flipper Zero Animations</h1>
 <h3 align="center">Rogue Master themed animations</h3>
 
