@@ -1,6 +1,6 @@
-Here are the animations I made for Flipper Zero. Those are folder-sorted by theme with preview videos* :
+Here are custom animations I made for the Flipper Zero. All animations will be in theme categories for easy navigation* :
 
-- [Rogue Master Themed](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares) - Dedicated to Rogue Master
+- [Rogue Master Themed](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed) - Dedicated to Rogue Master
 
 
 
