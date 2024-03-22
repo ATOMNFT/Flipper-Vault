@@ -1,5 +1,5 @@
 <h1 align="center">Flipper Zero Animations</h1>
-<h3 align="center">A place to find all animations created by for the F0</h3>
+<h3 align="center">A place to find all animations created by me for the F0</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
 
