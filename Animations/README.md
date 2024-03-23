@@ -28,6 +28,7 @@ and add (or replace) an entry as example below.
           Min level: 0
           Max level: 30
           Weight: 8
+		  <br>
    Note that animation name entry must be the animation folder exact name.<BR>
    Edit the butthurt/level/weight values according to your needs and firmware.<BR>
    (You can also replace your existing manifest file by one I provided in this github...)
