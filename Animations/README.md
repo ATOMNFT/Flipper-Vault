@@ -1,3 +1,5 @@
+![Header](Images/animationheader.gif)
+
 Here are some custom animations I made for the Flipper Zero. All animations will be in theme categories for easy navigation* :
 
 - [Rogue Master Themed](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed) - Dedicated to Rogue Master
