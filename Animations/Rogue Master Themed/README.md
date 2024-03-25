@@ -1,8 +1,9 @@
 ![Header](Images/rmheader.png)
+<br>
 
 ## Rogue Master themed animations for flipper zero
-<b>RM-spies</b>
-![RM-Spies](https://i.imgur.com/jwlrtTA.gif)
+
+![RM-Spies](https://i.imgur.com/jwlrtTA.gif)<b>RM-spies</b>
 
 
 
