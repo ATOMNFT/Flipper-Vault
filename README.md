@@ -43,22 +43,22 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <br>
 
-### *Sub-GHz*
+### *Sub-GHz Stuff*
 
 - [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 - [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 - [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 - [`Flipperzero-Concert-Bracelets` Sub-GHz file to trigger event LED bracelets.](https://github.com/MakeTotalSense/Flipper-Concert-bracelets)
 
-### *NFC/RFID*
+### *NFC/RFID Stuff*
 
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 
-### *Infrared*
+### *Infrared Stuff*
 
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
 
-### *BadUSB*
+### *BadUSB Stuff*
 
 - [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
@@ -69,16 +69,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 ### *Looking for Pre-made Animations?*
 
-- [`Talking Sasquach Animations` Literally wrote the book on making animations.](https://github.com/skizzophrenic/Talking-Sasquach)
-- [`Kuronons Graphics` Custom animations, passport backgrounds & profile pictures.](https://github.com/Kuronons/FZ_graphics)
-- [`Haseosama Animations` Great collection of custom animations.](https://github.com/Haseosama/FZ_Animations)
-- [`Animations by stopoxy` Another great custom animation collection.](https://github.com/stopoxy/FZAnimations)
-- [`Wr3nch Animations` Some custom animations and scripts.](https://github.com/wrenchathome/flip0anims)
-- [`Dexv Graphics` Custom animations and resources.](https://github.com/DXVVAY/dexv-graphics)
-- [`DoobTheGoober Animations` Custom animations from the creator of zip2Animation](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
-- [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
-- [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
-- [`Oneamongthetrees Animations/Graphics` Collection of custom animations and passport icons.](https://github.com/oneamongthetrees/fz-gfx)
+- [`Talking Sasquach Animations` Dude wrote the book on animation making!](https://github.com/skizzophrenic/Talking-Sasquach)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
