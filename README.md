@@ -35,6 +35,12 @@
 <b>Below you can find links to some great flipper zero resources that have been put together by the great members of the F0 community!
 A big thank you to each of you in this awesome community. None of this would be possible if it weren't for you and your awesomeness!</b>
 
+<hr>
+
+### *Looking for Pre-made Animations?*
+
+- [`Talking Sasquach Animations` Dude wrote the book on animation making!](https://github.com/skizzophrenic/Talking-Sasquach)
+
 ### *General*
 
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
@@ -66,10 +72,6 @@ A big thank you to each of you in this awesome community. None of this would be 
 - [`FalsePhilosophers Flipper BadUSB` Flipper zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
 
 <br>
-
-### *Looking for Pre-made Animations?*
-
-- [`Talking Sasquach Animations` Dude wrote the book on animation making!](https://github.com/skizzophrenic/Talking-Sasquach)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
