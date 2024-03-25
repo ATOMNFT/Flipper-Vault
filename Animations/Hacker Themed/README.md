@@ -2,7 +2,7 @@
 
 
 
-## Hacker themed animations for flipper zero
+
 
 ![Hack-Da-System](https://i.imgur.com/a/TTi2a0X)
 
