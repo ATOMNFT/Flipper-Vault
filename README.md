@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ATOMNFT</h1>
 <h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
 
-<hr>
+
 
 <h3 align="center">
   A collection of Awesome Animations for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
