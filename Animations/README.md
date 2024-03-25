@@ -29,16 +29,16 @@ Weight: 8
 
 <BR>
 
-# Learn how to make animations for the flipperzero
+# Make your own animations for the F0
 https://github.com/skizzophrenic/Talking-Sasquach
-  - Give thanks to Talking Sasquach for making the animation learning process easy!
+  - Also give thanks to Talking Sasquach for making the animation learning process easy!
 
-# zip2animations
-https://github.com/CharlesTheGreat77/zip2Animation
+# flipperzero-animation-tool
+https://github.com/nfowlie/flipperzero-animation-tool
   - utility to assist in automating some of the tedious animation creation process
     for the flipper zero
 
-# Honorable mentions
+# Some legends in F0 animations
 https://github.com/Kuronons/FZ_graphics
 
 https://github.com/stopoxy/FZAnimations
