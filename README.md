@@ -37,7 +37,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <hr>
 
-| ### *General*                                                                                                                                                     	| ### *Looking for Pre-made Animations?*                                                                                        	|
+| ### *General*                                                                                                                                                     	| ### *Looking for anything Animation related?*                                                                                        	|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------	|
 | - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)                              	| - [`Talking Sasquach Animations` Dude wrote the book on animation making!](https://github.com/skizzophrenic/Talking-Sasquach) 	|
 | - [`Officially maintained apps` Official apps maintained by the Flipper Team and collaborators.](https://github.com/flipperdevices/flipperzero-good-faps)         	|                                                                                                                               	|
