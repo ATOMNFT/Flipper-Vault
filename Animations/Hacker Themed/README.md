@@ -4,8 +4,6 @@
 
 ## Hacker themed animations for flipper zero
 
-![Hack-Da-System](https://i.imgur.com/FN4Dya7.gif)
-[Imgur](https://imgur.com/rRTPUZ1)
 
 
 
