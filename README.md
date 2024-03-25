@@ -22,7 +22,7 @@
   </td>
   <td>
     <h3 align="center">
-    🚫 Not affiliated with<br>
+    🚫 Doing this for fun. Not affiliated with<br>
     <a href="https://www.flipperdevices.com/">Flipper Devices Inc.</a>
     </h3>
   </td>
