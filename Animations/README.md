@@ -7,38 +7,43 @@ Here are some custom animations I made for the Flipper Zero. All animations will
 
 
 
-**TO INSTALL ON YOUR FLIPPER ZERO :**
+# How to Install EASY!
+  1. Plug in your flippers SD card.
+  2. Download the animations folders (that contains the "bm" file extensions!)
+  3. Drag and drop the animation folder into the Flipper SD\Dolphin folder.
+  4. Edit the manifest.txt in the dolphin folder of the SD and add this to the top.
+```
+name: <FOLDER_NAME>
+Min butthurt: 0
+Max butthurt: 14
+Min level: 0
+Max level: 30
+Weight: 8
+```
 
-1. Download animation zip file on your PC.<BR>
-   (.zip file contains a folder holding the animation frames .bm files and there corresponding meta.txt)
-
-2. Unzip and drag&drop / copy&paste the folder<BR>
--> If your are under official, Unleashed or RogueMaster firmware : into your flipper's ***SD/dolphin/*** folder.<BR>
--> If you are under Momentum or Xtreme firmware : into your flipper's asset pack folder (***SD/asset_packs/yourcustompacknamehere/Anims/***).
-    
-3. Manifest<BR>
--> Edit your manifest ***SD/dolphin/manifest.txt*** (OFW, UL or RM)<BR>
--> or create one ***SD/asset_packs/yourcustompacknamehere/Anims/manifest.txt*** (MFW or XFW)<BR><BR>
-and add (or replace) an entry as example below.
-
-          Filetype: Flipper Animation Manifest
-          Version: 1
-
-          Name: RM_Spies
-          Min butthurt: 0
-          Max butthurt: 14
-          Min level: 0
-          Max level: 30
-          Weight: 8
-		  <br>
-   Note that animation name entry must be the animation folder exact name.<BR>
-   Edit the butthurt/level/weight values according to your needs and firmware.<BR>
-   (You can also replace your existing manifest file by one I provided in this github...)
-   
-5. Reboot your Flipper (OS). And you're **DONE !**<BR>
-Don't forget to select your asset pack if under Momentum / Xtreme.
+  - "name" is the name of the animations folder. (change according of course)
+  - "Max level" adjust to max level if on custom firmware. (ie. 30, 15 etc)
+  - "Weight" the higher the weight the higher the chance the animation will show up before other animations.
+ 
+ 5. Save file, eject SD, put SD in flipper, and reboot! All done!
 
 <BR>
+
+# Learn how to make animations for the flipperzero
+https://github.com/skizzophrenic/Talking-Sasquach
+  - Give thanks to Talking Sasquach for making the animation learning process easy!
+
+# zip2animations
+https://github.com/CharlesTheGreat77/zip2Animation
+  - utility to assist in automating some of the tedious animation creation process
+    for the flipper zero
+
+# Honorable mentions
+https://github.com/Kuronons/FZ_graphics
+
+https://github.com/stopoxy/FZAnimations
+
+https://github.com/mnenkov/flipper-zero-animations
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
