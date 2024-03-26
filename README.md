@@ -72,7 +72,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 * [`UNC0V3R3D BadUSB collection` Another great BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 <br>
 
-<h3>For AWESOME resources always check <a href="https://github.com/djsime1/awesome-flipperzero">djsime1's page</a> Tons of F0 stuff there!
+<h3>I've learned what I have from the greats in this space. So for more of the AWESOMEST resources always check <a href="https://github.com/djsime1/awesome-flipperzero">djsime1's page</a> Tons of F0 stuff there!
 <hr>
 
 
