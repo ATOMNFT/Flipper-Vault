@@ -68,6 +68,17 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <hr>
 
+## BadUSB
+* [`FalsePhilosophers Flipper BadUSB` Flipper zero community built ducky payloads repo.](https://github.com/FalsePhilosopher/badusb)
+* [`Flipper BadUSB Payloads` Payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
+* [`UNC0V3R3D BadUSB collection` Another great BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
+<br>
+
+<h3>For more great resources and info always check <a href="https://github.com/djsime1/awesome-flipperzero">djsime1's page</a> Tons of F0 stuff there!
+<hr>
+
+
+
 
 
 <br>
