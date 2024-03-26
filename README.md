@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-  I'm building a collection of Awesome Animations for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+  I'm building a collection of Awesome Animations & resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
   </a>
