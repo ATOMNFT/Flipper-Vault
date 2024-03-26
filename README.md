@@ -39,7 +39,6 @@ A big thank you to each of you in this awesome community. None of this would be 
 <br>
 
 ## Animations Section.
-
 * [`Talking Sasquach Animations` Dude wrote the book on making shaweeet animations.](https://github.com/skizzophrenic/Talking-Sasquach)
 * [`UberGuidoZ Graphics` Some great info on animations, links to resources and more including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 * [`Kuronons Graphics` Custom animations, passport backgrounds & profile pictures. Dudes a wiz with F0 animations!](https://github.com/Kuronons/FZ_graphics)
@@ -47,6 +46,25 @@ A big thank you to each of you in this awesome community. None of this would be 
 * [`Dexv Graphics` Custom animations. Info and resources.](https://github.com/DXVVAY/dexv-graphics)
 
 <h2>Find more great animations and info at <a href="https://github.com/djsime1/awesome-flipperzero">djsime1's page</a></h2>
+
+<hr>
+
+## Sub-GHz
+* [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
+* [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
+* [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
+* [`Flipperzero-Concert-Bracelets` Sub-GHz file to trigger event LED bracelets.](https://github.com/MakeTotalSense/Flipper-Concert-bracelets)
+
+<hr>
+
+## NFC/RFID
+* [`FlipperAmiibo` Cache of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
+
+<hr>
+
+## Infrared
+* [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
+* [`HatTricks-FZ - Infrared` Some really good info on IR for the F0.](https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-infrared)
 
 <hr>
 
