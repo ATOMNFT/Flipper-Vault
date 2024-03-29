@@ -31,6 +31,7 @@
 <br>
 
 ## In-House Animations by category.
+<br> These animations are made by me. They are free to dl, share and enjoy! 
 * [`Rogue Master Themed`](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed)
 * [`Hacker Themed`](https://rb.gy/2mfeq9)
 
