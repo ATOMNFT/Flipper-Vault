@@ -5,7 +5,7 @@
 
 ![RM-Spies](https://i.imgur.com/jwlrtTA.gif)<b>RM-spies</b>
 ![RM-VooDoo](https://i.imgur.com/DIuwrDZ.gif)<b>RM-VooDoo</b>
-![RM-Spies](https://i.imgur.com/VZtCDQl.gif)<b>RM-StickFightInverted</b>
+![RM-Spies](https://i.imgur.com/VZtCDQl.gif)<b>RM-StickFightInvr</b>
 
 # How to Install EASY!
   1. Plug in your flippers SD card.
