@@ -34,7 +34,7 @@
 <b>These animations are made by me. They are free to dl, share and enjoy! <br> A big thank you to * [`Talking Sasquach` For sharing your knowledge with us all!.](https://github.com/skizzophrenic/Talking-Sasquach) </b>
 * [`Rogue Master Themed`](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed)
 * [`Hacker Themed`](https://rb.gy/2mfeq9)
-
+<b>More animations are in the works!</b>
 
 <hr>
 
