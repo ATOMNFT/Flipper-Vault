@@ -30,7 +30,7 @@
 </table>
 <br>
 
-## Animations by category. (Made by me)
+## In-House Animations by category.
 * [`Rogue Master Themed`](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed)
 * [`Hacker Themed`](https://rb.gy/2mfeq9)
 
