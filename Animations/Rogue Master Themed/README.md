@@ -4,6 +4,7 @@
 ## Rogue Master themed animations for flipper zero
 <b>RM-spies</b>
 ![RM-Spies](https://i.imgur.com/jwlrtTA.gif)
+<br>
 <b>RM-VooDoo</b>
 ![RM-VooDoo](https://i.imgur.com/DIuwrDZ.gif)
 <b>RM-StickFightInvr</b>
