@@ -6,9 +6,10 @@
 ![RM-Spies](https://i.imgur.com/jwlrtTA.gif)
 <b>RM-VooDoo</b>
 ![RM-VooDoo](https://i.imgur.com/DIuwrDZ.gif)
-
-![RM-Spies](https://i.imgur.com/VZtCDQl.gif)<b>RM-StickFightInvr</b>
-![RM-Spies](https://i.imgur.com/QnvygIk.gif)<b>RM-StickFight</b>
+<b>RM-StickFightInvr</b>
+![RM-Spies](https://i.imgur.com/VZtCDQl.gif)
+<b>RM-StickFight</b>
+![RM-Spies](https://i.imgur.com/QnvygIk.gif)
 
 
 
