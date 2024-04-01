@@ -39,11 +39,11 @@ https://github.com/nfowlie/flipperzero-animation-tool
     for the flipper zero
 
 # Some legends in F0 animations
-https://github.com/Kuronons/FZ_graphics
+[`Kuronons Graphics`](https://github.com/Kuronons/FZ_graphics)
 
-https://github.com/stopoxy/FZAnimations
+[`UberGuidoZ Graphics`](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 
-https://github.com/mnenkov/flipper-zero-animations
+More to come!
 
 <br>
 <br>
