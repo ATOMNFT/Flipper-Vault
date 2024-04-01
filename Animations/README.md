@@ -9,7 +9,7 @@ Here are some custom animations I made for the Flipper Zero. All animations will
 
 # How to Install EASY!
   1. Plug in your flippers SD card.
-  2. Download the animations folders (that contains the "bm" file extensions!)
+  2. Download the animations folder of your liking (It contains .bm files along with a zip holding the manifest and all files. Delete zip before putting the folder on your device )
   3. Drag and drop the animation folder into the Flipper SD\Dolphin folder.
   4. Edit the manifest.txt in the dolphin folder of the SD and add this to the top.
 ```
