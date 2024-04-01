@@ -4,6 +4,7 @@ Here are some custom animations I made for the Flipper Zero. All animations will
 
 - [Rogue Master Themed](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed) - Dedicated to Rogue Master
 - [Hacker Themed](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Hacker%20Themed) - Dedicated to the hacker in us all
+- [Weed Themed](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Weed%20Themed) - For all the smokers out there!
 
 
 
