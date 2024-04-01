@@ -1,4 +1,4 @@
-![Header](Images/weedthemeheader.png)
+![Header](Images/wtheader.png)
 
 
 
