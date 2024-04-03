@@ -9,8 +9,8 @@
 ![RM-Spies](https://i.imgur.com/VZtCDQl.gif)<b>RM-StickFightInvr</b>
 <br>
 ![RM-Spies](https://i.imgur.com/QnvygIk.gif)<b>RM-StickFight</b>
-
-
+<br>
+![RM-Gotchi](https://i.imgur.com/TmjP9Vn.gif)<b>RM-Gotchi</b>
 
 # How to Install EASY!
   1. Plug in your flippers SD card.
