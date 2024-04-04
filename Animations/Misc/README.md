@@ -3,7 +3,7 @@
 
 
 ## miscellaneous
-<hr>
+
 <b>These animations do not fall in a specific category and are mostly simple animations that are made during a learning process</b>
 ![SigBot-Simple](https://i.imgur.com/SZbkoLu.gif)<b>SigBot-Simple</b>
 
