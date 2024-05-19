@@ -2,15 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm ATOMNFT</h1>
 <h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
-
-
-
 <h3 align="center">
   I'm building a collection of awesome animations & resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
   </a>
 </h3>
+
+
+
+<p align="center">
+  <a href="https://github.com/ATOMNFT">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATOMNFT&theme=transparent" />
+  </a>
+  <a href="https://github.com/ATOMNFT">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATOMNFT&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+</p>
 
 <table align="center">
 <tr>
