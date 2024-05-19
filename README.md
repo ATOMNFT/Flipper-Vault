@@ -9,8 +9,6 @@
   </a>
 </h3>
 
-
-
 <p align="center">
   <a href="https://github.com/ATOMNFT">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATOMNFT&theme=transparent" />
@@ -36,6 +34,7 @@
   </td>
 </tr>
 </table>
+
 <br>
 
 ## In-House Animations by category
