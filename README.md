@@ -55,7 +55,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <br>
 
-## Animations Section.
+## Animations Section
 * [`Talking Sasquach Animations` Dude wrote the book on making shaweeet animations.](https://github.com/skizzophrenic/Talking-Sasquach)
 * [`UberGuidoZ Graphics` Some great info on animations, links to resources and more including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 * [`Kuronons Graphics` Custom animations, passport backgrounds & profile pictures. Dudes a wiz with F0 animations!](https://github.com/Kuronons/FZ_graphics)
