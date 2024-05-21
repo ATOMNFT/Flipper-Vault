@@ -1,7 +1,9 @@
 ![Header](Images/mainheader.png)
 
+<p align="center">
 <a href="#">
-    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
+    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24> 
+</p>
 
 <h3 align="center">
   I'm building a collection of awesome animations & resources for the <a href="https://flipperzero.one">Flipper Zero</a> device. </a>
