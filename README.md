@@ -1,7 +1,7 @@
 ![Header](Images/mainheader.png)
 
-<h1 align="center">Hi 👋, I'm ATOMNFT</h1>
-<h3 align="center">A tinkerer from the US. Designing, building and testing are my passions</h3>
+<h1 align="center">FLIPPER VAULT</h1>
+
 <h3 align="center">
   I'm building a collection of awesome animations & resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
