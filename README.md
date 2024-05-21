@@ -9,14 +9,7 @@
   </a>
 </h3>
 
-<p align="center">
-  <a href="https://github.com/ATOMNFT">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATOMNFT&theme=transparent" />
-  </a>
-  <a href="https://github.com/ATOMNFT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATOMNFT&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-</p>
+
 
 <table align="center">
 <tr>
