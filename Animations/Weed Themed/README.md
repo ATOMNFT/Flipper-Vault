@@ -5,7 +5,7 @@
 ## Weed themed animations for flipper zero
 
 ![NuggiePuff](https://i.imgur.com/Eh7ViRE.gif)<b>NuggiePuff</b>
-![Wake-N-Bake](https://i.imgur.com/bNjNl2L.gif)<b>NuggiePuff</b>
+![Wake-N-Bake](https://i.imgur.com/bNjNl2L.gif)<b>Wake-N-Bake</b>
 
 
 
