@@ -48,7 +48,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 <br>
 
 ## Animations Section
-<details open>
+<details>
 <summary>Animations</summary>
 
 * [`Talking Sasquach Animations` Dude wrote the book on making shaweeet animations.](https://github.com/skizzophrenic/Talking-Sasquach)
