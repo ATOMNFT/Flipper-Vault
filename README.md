@@ -49,7 +49,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 ## Animations Section
 <details>
-<summary>Animations</summary>
+<summary>Animation Resources</summary>
 
 * [`Talking Sasquach Animations` Dude wrote the book on making shaweeet animations.](https://github.com/skizzophrenic/Talking-Sasquach)
 * [`UberGuidoZ Graphics` Some great info on animations, links to resources and more including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
@@ -62,8 +62,8 @@ A big thank you to each of you in this awesome community. None of this would be 
 <hr>
 
 ## Sub-GHz
-<details open>
-<summary>Sub-GHz</summary>
+<details>
+<summary>Sub-GHz Resources</summary>
 
 * [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 * [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
@@ -75,8 +75,8 @@ A big thank you to each of you in this awesome community. None of this would be 
 <hr>
 
 ## NFC/RFID
-<details open>
-<summary>NFC/RFID</summary>
+<details>
+<summary>NFC/RFID Resources</summary>
 
 * [`FlipperAmiibo` Cache of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 
@@ -85,8 +85,8 @@ A big thank you to each of you in this awesome community. None of this would be 
 <hr>
 
 ## Infrared
-<details open>
-<summary>Infrared</summary>
+<details>
+<summary>Infrared Resources</summary>
 
 * [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
 * [`HatTricks-FZ - Infrared` Some really good info on IR for the F0.](https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-infrared)
@@ -96,8 +96,8 @@ A big thank you to each of you in this awesome community. None of this would be 
 <hr>
 
 ## BadUSB
-<details open>
-<summary>BadUSB</summary>
+<details>
+<summary>BadUSB Resources</summary>
 
 * [`FalsePhilosophers Flipper BadUSB` Flipper zero community built ducky payloads repo.](https://github.com/FalsePhilosopher/badusb)
 * [`Flipper BadUSB Payloads` Payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
