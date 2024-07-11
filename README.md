@@ -47,7 +47,9 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <br>
 
-## Animations Section
+# 👉Resources Section👈
+---
+
 <details>
 <summary>Animation Resources</summary>
 
@@ -59,7 +61,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 </details>
 
-<hr>
+
 
 ## Sub-GHz
 <details>
@@ -72,7 +74,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 </details>
 
-<hr>
+
 
 ## NFC/RFID
 <details>
@@ -82,7 +84,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 </details>
 
-<hr>
+
 
 ## Infrared
 <details>
@@ -93,7 +95,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 </details>
 
-<hr>
+
 
 ## BadUSB
 <details>
