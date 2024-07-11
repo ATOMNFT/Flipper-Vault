@@ -47,7 +47,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <br>
 
-# 👉Resources Section👈
+# 👇Resources Section👇
 ---
 
 <details>
