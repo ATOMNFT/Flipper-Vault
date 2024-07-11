@@ -41,13 +41,11 @@
 
 <hr>
 
-
-<b>Below you can find links to some great flipper zero resources that have been put together by the great members of the F0 community!
-A big thank you to each of you in this awesome community. None of this would be possible if it weren't for you and your awesomeness!</b>
-
 <br>
 
 # 👇Resources Section👇
+<b>Below you can find links to some great flipper zero resources that have been put together by the great members of the F0 community!
+A big thank you to each of you in this awesome community. None of this would be possible if it weren't for you and your awesomeness!</b>
 ---
 
 <details>
