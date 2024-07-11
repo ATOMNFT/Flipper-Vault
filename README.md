@@ -68,6 +68,7 @@ A big thank you to each of you in this awesome community. None of this would be 
 <details>
 <summary>Sub-GHz Resources</summary>
 
+* [`Connecting a CC1101` External Sub-GHz module.](https://github.com/quen0n/flipperzero-ext-cc1101)
 * [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 * [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 * [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
