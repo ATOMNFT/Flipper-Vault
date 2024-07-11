@@ -31,7 +31,7 @@
 <br>
 
 ## In-House Animations by category
-<b>These animations are made by me. They are free to dl, share and enjoy! <br> A big thank you to * [`Talking Sasquach` For sharing your knowledge with us all!.](https://github.com/skizzophrenic/Talking-Sasquach) </b>
+<b>These animations are made by me. They are free to dl, share and enjoy! <br> A big thank you to  [`Talking Sasquach`](https://github.com/skizzophrenic/Talking-Sasquach) For sharing your knowledge with us all </b>
 * [`Rogue Master Themed`](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Rogue%20Master%20Themed) Show your love for an awesome build!
 * [`Hacker Themed`](https://rb.gy/2mfeq9) The hacker in you will love these! 
 * [`Weed Themed`](https://github.com/ATOMNFT/Flipper-Vault/tree/main/Animations/Weed%20Themed) For all the smokers out there!
@@ -48,37 +48,64 @@ A big thank you to each of you in this awesome community. None of this would be 
 <br>
 
 ## Animations Section
+<details open>
+<summary>Animations</summary>
+
 * [`Talking Sasquach Animations` Dude wrote the book on making shaweeet animations.](https://github.com/skizzophrenic/Talking-Sasquach)
 * [`UberGuidoZ Graphics` Some great info on animations, links to resources and more including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 * [`Kuronons Graphics` Custom animations, passport backgrounds & profile pictures. Dudes a wiz with F0 animations!](https://github.com/Kuronons/FZ_graphics)
 * [`Animations by stopoxy` More great custom animations.](https://github.com/stopoxy/FZAnimations)
 * [`Dexv Graphics` Custom animations. Info and resources.](https://github.com/DXVVAY/dexv-graphics)
 
+</details>
+
 <hr>
 
 ## Sub-GHz
+<details open>
+<summary>Sub-GHz</summary>
+
 * [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 * [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 * [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 * [`Flipperzero-Concert-Bracelets` Sub-GHz file to trigger event LED bracelets.](https://github.com/MakeTotalSense/Flipper-Concert-bracelets)
 
+</details>
+
 <hr>
 
 ## NFC/RFID
+<details open>
+<summary>NFC/RFID</summary>
+
 * [`FlipperAmiibo` Cache of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
+
+</details>
 
 <hr>
 
 ## Infrared
+<details open>
+<summary>Infrared</summary>
+
 * [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
 * [`HatTricks-FZ - Infrared` Some really good info on IR for the F0.](https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-infrared)
+
+</details>
 
 <hr>
 
 ## BadUSB
+<details open>
+<summary>BadUSB</summary>
+
 * [`FalsePhilosophers Flipper BadUSB` Flipper zero community built ducky payloads repo.](https://github.com/FalsePhilosopher/badusb)
 * [`Flipper BadUSB Payloads` Payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 * [`UNC0V3R3D BadUSB collection` Another great BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
+
+</details>
+
+---
 <br>
 
 <h3>I've learned what I have from the greats in this space. So for more of the AWESOMEST resources always check <a href="https://github.com/djsime1/awesome-flipperzero">djsime1's page</a> Tons of F0 stuff there!
